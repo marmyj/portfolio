@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-<embed src="https://marmyj.github.io/portfolio/Scuba Diving Credentialing MVP.pdf" width="600px" height="500px" />
+<embed src="https://github.com/marmyj/portfolio/blob/gh-pages/Scuba%20Diving%20Credentialing%20MVP.pdf" width="600px" height="500px" />
