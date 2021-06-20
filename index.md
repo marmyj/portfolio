@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-[Link](https://docs.google.com/viewer?url=https://github.com/marmyj/portfolio/blob/gh-pages/Scuba%20Diving%20Credentialing%20MVP.pdf")
+[Link](https://github.com/marmyj/portfolio/blob/gh-pages/Scuba%20Diving%20Credentialing%20MVP.pdf)
